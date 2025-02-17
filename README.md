@@ -1,5 +1,7 @@
 # BCGX Gen AI
 
+![](https://github.com/Lucky-akash321/BCGX-Gen-AI/blob/main/BCG%20X%20logo.jpg)
+
 ## Overview
 BCGX (Boston Consulting Group X) leverages Generative AI to drive innovation, automate processes, and enhance decision-making across industries. By utilizing cutting-edge AI models, BCGX delivers scalable and transformative AI-driven solutions for businesses.
 
