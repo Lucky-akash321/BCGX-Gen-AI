@@ -31,4 +31,4 @@ We welcome contributions to this project! Please follow the standard [contributi
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Lucky-akash321/Machine-Learning-atoz/blob/main/LICENSE) file for details.
