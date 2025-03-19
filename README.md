@@ -6,7 +6,7 @@ A collection of awesome, beginner-friendly machine learning tutorials and projec
 
 | Title       | Description    | Technology/Library  | Link  | Article |
 |-------------|----------------|---------------------|-------|---------|
-| 5 Machine Learning Libraries        | Overview of the 5 machine learning libraries in Python for fast and efficient development. | `NumPy`, `Pandas`, `Matplotlib`,`NLTK`, `Scikit-learn`       |  [View Notebook](https://github.com/sanikamal/machine-learning-atoz/blob/master/notebook/top_five_machine_learning_libraries_in_python.ipynb)     | Python Libraries for ML |
+| 5 Machine Learning Libraries        | Overview of the 5 machine learning libraries in Python for fast and efficient development. | `NumPy`, `Pandas`, `Matplotlib`,`NLTK`, `Scikit-learn`       |  [View Notebook](https://github.com/Lucky-akash321/Machine-Learning-atoz/blob/main/notebook/top_five_machine_learning_libraries_in_python.ipynb)     | Python Libraries for ML |
 | Simple Linear Regression | Implement simple linear regression to predict engine size on fuel consumption dataset.  | `Pandas`, `Matplotlib`, `Scikit-learn`    | [View Notebook](https://github.com/sanikamal/machine-learning-atoz/blob/master/Simple-Linear-Regression.ipynb) | Basics of Linear Regression |
 | Spam Detection Using Naive-Bayes| Detect spam emails using Naive-Bayes classification techniques.  | `Scikit-learn`,`Pandas`| [View Notebook](https://github.com/sanikamal/machine-learning-atoz/blob/master/spam-detection/spam-detection.ipynb)   | Spam Detection with Naive-Bayes |
 <!--
